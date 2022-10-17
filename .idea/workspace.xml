@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9774b81d-8f50-496e-9bb1-281e26328010" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/count-cats.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/count-cats.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/common-character-count.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/common-character-count.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/matrix-elements-sum.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/matrix-elements-sum.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +41,8 @@
       <option name="presentableId" value="Default" />
       <updated>1665841005055</updated>
       <workItem from="1665841007191" duration="60000" />
-      <workItem from="1665918483990" duration="2041000" />
+      <workItem from="1665918483990" duration="4431000" />
+      <workItem from="1665990278473" duration="709000" />
     </task>
     <servers />
   </component>
